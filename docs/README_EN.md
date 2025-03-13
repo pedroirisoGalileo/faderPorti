@@ -47,11 +47,7 @@ For Spanish documentation, please refer to `README_ES.md`. For any issues or con
 
 ## Screenshots
 
-![Screenshot 1](images/imagen1.jpeg)
-![Screenshot 2](images/imagen2.jpeg)
-![Screenshot 3](images/imagen3.jpeg)
-![Screenshot 4](images/imagen4.jpeg)
-![Screenshot 5](images/imagen5.jpeg)
+![imagenes](docs/images)
 
 ## 3D Project
 

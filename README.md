@@ -1,6 +1,6 @@
 # Controlador USB FaderPortiSB MIDI Controller
 
-## Descripcióno
+## Descripción
 
 El Controlador USB FaderPorti es un proyecto basado en Arduino diseñado para proporcionar una interfaz de control MIDI utilizando encoders y botones. Este proyecto permite a los usuarios controlar varios parámetros en su estación de trabajo de audio digital (DAW) a través de mensajes MIDI.y botones. Este proyecto permite a los usuarios controlar varios parámetros en su estación de trabajo de audio digital (DAW) a través de mensajes MIDI. Es ideal para músicos, productores y cualquier persona interesada en la creación de música digital.
 
@@ -34,52 +34,20 @@ bilidad**: Funciona con cualquier DAW que soporte dispositivos MIDI.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Este proyecto está bajo la licencia MIT.## LicenciaLas contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor abre un issue o envía un pull request.## Contribuciones![Video de Funcionamiento](funcionamiento.mp4)
-
 ## Video de Funcionamiento
+![Video de Funcionamiento](funcionamiento.mp4)
 
+
+
+## Proyecto en 3D!
 Puedes descargar e imprimir la caja para el controlador desde el siguiente enlace: 
 [FaderPorti USB Box en Tinkercad](https://www.tinkercad.com/things/cjWDqjR7V7j-faderporti-usb-box?sharecode=X4At-7BB9CBkAALtWwc4YwsMeTGp326zvozLMah07FM)
-## Proyecto en 3D!
 
-[Captura de Pantalla 5]([images/imagen5.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen5.jpeg))!
-[Captura de Pantalla 4]([images/imagen4.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen4.jpeg))!
-[Captura de Pantalla 3]([images/imagen3.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen3.jpeg))!
-[Captura de Pantalla 2]([images/imagen2.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen2.jpeg))!
-[Captura de Pantalla 1]([faderPorti/blob/main/docs/images/Imagen1.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen1.jpeg))
+
+
 ## Capturas de Pantalla
+![IMAGES](docs/images)
+
 
 Para la documentación en inglés, consulta `README_EN.md`. Para cualquier problema o contribución, revisa el repositorio principal o contacta al mantenedor del proyecto.## Información Adicional- Usa los encoders para ajustar parámetros y los botones para controlar la reproducción y grabación.- Abre tu DAW preferida y configúrala para reconocer el FaderPorti como un dispositivo de entrada MIDI.- Una vez que el código esté subido, conecta el Arduino a tu computadora.
 
@@ -113,7 +81,7 @@ Para la documentación en inglés, consulta `README_EN.md`. Para cualquier probl
     - Abre el archivo [faderPortiUSB.ino](http://_vscodecontentref_/0) en el IDE de Arduino.
 
 3. **Instalar las Bibliotecas Necesarias**
-    - Utiliza el Administrador de Bibliotecas del IDE de Arduino para instalar las bibliotecas [USB-MIDI](http://_vscodecontentref_/1), [Encoder](http://_vscodecontentref_/2) y [Bounce2](http://_vscodecontentref_/3).
+    - Utiliza el Administrador de Bibliotecas del IDE de Arduino para instalar las bibliotecas USB-MIDI, ENCODER y BOUNCE2
 
 4. **Conectar los Componentes de Hardware**
     - Conecta los encoders y botones a los pines especificados en la sección de Pinout.

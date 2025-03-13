@@ -148,11 +148,7 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](docs/images/imagen1.jpeg)
-![Captura de Pantalla 2](docs/images/imagen2.jpeg)
-![Captura de Pantalla 3](docs/images/imagen3.jpeg)
-![Captura de Pantalla 4](docs/images/imagen4.jpeg)
-![Captura de Pantalla 5](docs/images/imagen5.jpeg)
+![imagenes](docs/images)
 
 ## Proyecto en 3D
 
@@ -270,11 +266,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Screenshots
 
-[Captura de Pantalla 5]([images/imagen5.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen5.jpeg))!
-[Captura de Pantalla 4]([images/imagen4.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen4.jpeg))!
-[Captura de Pantalla 3]([images/imagen3.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen3.jpeg))!
-[Captura de Pantalla 2]([images/imagen2.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen2.jpeg))!
-[Captura de Pantalla 1]([faderPorti/blob/main/docs/images/Imagen1.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen1.jpeg))
+![IMAGES](docs/images)
+
 
 
 ## 3D Project

@@ -66,9 +66,22 @@ bilidad**: Funciona con cualquier DAW que soporte dispositivos MIDI.
 
 
 
-Este proyecto está bajo la licencia MIT.## LicenciaLas contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor abre un issue o envía un pull request.## Contribuciones![Video de Funcionamiento](funcionamiento.mp4)## Video de FuncionamientoPuedes descargar e imprimir la caja para el controlador desde el siguiente enlace: [FaderPorti USB Box en Tinkercad](https://www.tinkercad.com/things/cjWDqjR7V7j-faderporti-usb-box?sharecode=X4At-7BB9CBkAALtWwc4YwsMeTGp326zvozLMah07FM)## Proyecto en 3D![Captura de Pantalla 5](images/imagen5.jpeg)![Captura de Pantalla 4](images/imagen4.jpeg)![Captura de Pantalla 3](images/imagen3.jpeg)![Captura de Pantalla 2](images/imagen2.jpeg)![Captura de Pantalla 1](images/imagen1.jpeg)## Capturas de PantallaPara la documentación en inglés, consulta `README_EN.md`. Para cualquier problema o contribución, revisa el repositorio principal o contacta al mantenedor del proyecto.## Información Adicional- Usa los encoders para ajustar parámetros y los botones para controlar la reproducción y grabación.- Abre tu DAW preferida y configúrala para reconocer el FaderPorti como un dispositivo de entrada MIDI.- Una vez que el código esté subido, conecta el Arduino a tu computadora.## Uso   - Sube el código a tu placa Arduino.| Botón FF           | A2          |
-| Botón Rew          | A3          |
-| Botón Rec General  | A0          |
+Este proyecto está bajo la licencia MIT.## LicenciaLas contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor abre un issue o envía un pull request.## Contribuciones![Video de Funcionamiento](funcionamiento.mp4)
+
+## Video de Funcionamiento
+
+Puedes descargar e imprimir la caja para el controlador desde el siguiente enlace: 
+[FaderPorti USB Box en Tinkercad](https://www.tinkercad.com/things/cjWDqjR7V7j-faderporti-usb-box?sharecode=X4At-7BB9CBkAALtWwc4YwsMeTGp326zvozLMah07FM)
+## Proyecto en 3D!
+
+[Captura de Pantalla 5]([images/imagen5.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen5.jpeg))!
+[Captura de Pantalla 4]([images/imagen4.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen4.jpeg))!
+[Captura de Pantalla 3]([images/imagen3.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen3.jpeg))!
+[Captura de Pantalla 2]([images/imagen2.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen2.jpeg))!
+[Captura de Pantalla 1]([faderPorti/blob/main/docs/images/Imagen1.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen1.jpeg))
+## Capturas de Pantalla
+
+Para la documentación en inglés, consulta `README_EN.md`. Para cualquier problema o contribución, revisa el repositorio principal o contacta al mantenedor del proyecto.## Información Adicional- Usa los encoders para ajustar parámetros y los botones para controlar la reproducción y grabación.- Abre tu DAW preferida y configúrala para reconocer el FaderPorti como un dispositivo de entrada MIDI.- Una vez que el código esté subido, conecta el Arduino a tu computadora.
 
 ## Requisitos
 
@@ -257,11 +270,12 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Screenshots
 
-![Screenshot 1](docs/images/imagen1.jpeg)
-![Screenshot 2](docs/images/imagen2.jpeg)
-![Screenshot 3](docs/images/imagen3.jpeg)
-![Screenshot 4](docs/images/imagen4.jpeg)
-![Screenshot 5](docs/images/imagen5.jpeg)
+[Captura de Pantalla 5]([images/imagen5.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen5.jpeg))!
+[Captura de Pantalla 4]([images/imagen4.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen4.jpeg))!
+[Captura de Pantalla 3]([images/imagen3.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen3.jpeg))!
+[Captura de Pantalla 2]([images/imagen2.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen2.jpeg))!
+[Captura de Pantalla 1]([faderPorti/blob/main/docs/images/Imagen1.jpeg](https://github.com/pedroirisoGalileo/faderPorti/blob/main/docs/images/Imagen1.jpeg))
+
 
 ## 3D Project
 

@@ -18,18 +18,18 @@ bilidad**: Funciona con cualquier DAW que soporte dispositivos MIDI.
    - Encoders rotativos
    - Botones pulsadores
    - Cables de puente
-   - Protoboard (opcional)  |
-| Encoder 1 (Izquierda)| 6         |
-2. **Requisitos de Software**n Encoder 1    | 7           |
-   - IDE de Arduino| Encoder 2 (Derecha)| 2           |
+   - Protoboard (opcional) 
+
+2. **Requisitos de Software**
+   - IDE de Arduino
    - Biblioteca USB-MIDI
-   - Biblioteca Encoder| Botón Encoder 2    | 4           |
-   - Biblioteca Bounce2elante | 8        |
-| Botón Cursor Atrás | 9           |
+   - Biblioteca Encoder
+   - Biblioteca Bounce2
+
 3. **Pasos de Instalación**
-   - Clona o descarga el repositorio.| Botón Rec          | 16          |
-   - Abre el archivo `faderPortiUSB.ino` en el IDE de Arduino.o         | 14          |
-   - Instala las bibliotecas requeridas a través del Administrador de Bibliotecas.| Botón Pause        | 15          |
+   - Clona o descarga el repositorio.
+   - Abre el archivo `faderPortiUSB.ino` en el IDE de Arduino
+   - Instala las bibliotecas requeridas a través del Administrador de Bibliotecas.
    - Conecta los componentes de hardware según las definiciones de pines en el código.
 
 
@@ -52,6 +52,29 @@ Puedes descargar e imprimir la caja para el controlador desde el siguiente enlac
 Para la documentación en inglés, consulta `README_EN.md`. Para cualquier problema o contribución, revisa el repositorio principal o contacta al mantenedor del proyecto.## Información Adicional- Usa los encoders para ajustar parámetros y los botones para controlar la reproducción y grabación.- Abre tu DAW preferida y configúrala para reconocer el FaderPorti como un dispositivo de entrada MIDI.- Una vez que el código esté subido, conecta el Arduino a tu computadora.
 
 ## Requisitos
+
+## Pinout
+
+The following table details the pin configuration used in this project:
+
+| Component          | Arduino Pin |
+|--------------------|-------------|
+| Encoder 1 (Right)  | 5           |
+| Encoder 1 (Left)   | 6           |
+| Encoder 1 Button   | 7           |
+| Encoder 2 (Right)  | 2           |
+| Encoder 2 (Left)   | 3           |
+| Encoder 2 Button   | 4           |
+| Cursor Forward Button | 8        |
+| Cursor Back Button | 9           |
+| Mute Button        | 10          |
+| Rec Button         | 16          |
+| Solo Button        | 14          |
+| Pause Button       | 15          |
+| Play Button        | A1          |
+| FF Button          | A2          |
+| Rew Button         | A3          |
+| General Rec Button | A0          |
 
 ### Hardware
 

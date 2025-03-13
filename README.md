@@ -280,4 +280,4 @@ You can download and print the case for the controller from the following link: 
 
 ## Contact
 
-For any inquiries or suggestions, you can contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or suggestions, you can contact the project maintainer at [pedroiriso@galileo.edu.ar](mailto:pedroiriso@galileo.edu.ar).

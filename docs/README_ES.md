@@ -45,11 +45,8 @@ Para la documentación en inglés, consulta `README_EN.md`. Para cualquier probl
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](images/imagen1.jpeg)
-![Captura de Pantalla 2](images/imagen2.jpeg)
-![Captura de Pantalla 3](images/imagen3.jpeg)
-![Captura de Pantalla 4](images/imagen4.jpeg)
-![Captura de Pantalla 5](images/imagen5.jpeg)
+![imagenes](docs/images)
+
 
 ## Proyecto en 3D
 
